@@ -40,3 +40,16 @@ Python + Web + Database
 Python + Web + Cloud
    ↓
 Cloud + Database
+
+### Purpose
+
+This repository documents my practical learning journey and projects combining Python with Web Development.
+
+A README is useful because it is normally one of the first things visitors see in a repository and should explain what the project does and how to get started. :contentReference[oaicite:1]{index=1}
+
+### Step 3 — Create the project folder
+
+Inside the repository, create this folder:
+
+```text
+student-task-manager
